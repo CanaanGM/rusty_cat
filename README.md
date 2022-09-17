@@ -1,0 +1,1 @@
+A follow along from the book: [Practical rust projects by Shing LYu](https://github.com/Apress/practical-rust-projects/blob/master/cli/catsay/src/main.rs)
